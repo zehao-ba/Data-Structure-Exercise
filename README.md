@@ -5,6 +5,7 @@ It is a folder includes the data structure exercises.
 * Array Rotation
   * Rotate one by one with time complexity O(n* d)
   * Juggling algorithm with time complexity O(n)
+  * Reversal algorithm with time complexity O(n)
 ### 2. Link List
 ### 3. Stack
 ### 4. Queue
