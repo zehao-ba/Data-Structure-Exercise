@@ -6,6 +6,7 @@ It is a folder includes the data structure exercises.
   * Rotate one by one with time complexity O(n* d)
   * Juggling algorithm with time complexity O(n)
   * Reversal algorithm with time complexity O(n)
+  * Given a sorted and rotated array, find if there is a pair with a given sum with time complexity O(n)
 ### 2. Link List
 ### 3. Stack
 ### 4. Queue
