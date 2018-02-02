@@ -3,11 +3,11 @@ It is a folder includes the data structure exercises.
 
 ### 1. Array
 * Array Rotation
-  * Rotate one by one with time complexity O(n* d)
-  * Juggling algorithm with time complexity O(n)
-  * Reversal algorithm with time complexity O(n)
-  * Given a sorted and rotated array, find if there is a pair with a given sum with time complexity O(n)
-  * MoveToZerosEnd: Move all zeroes to end of array with time complexity O(n)
+  * ArrayRotation: Rotate one by one with time complexity O(n* d)
+  * Juggling: Juggling algorithm with time complexity O(n)
+  * Reversal: Reversal algorithm with time complexity O(n)
+  * FindGivenSum: Given a sorted and rotated array, find if there is a pair with a given sum with time complexity O(n)
+  * MoveZeroToEnd: Move all zeroes to end of array with time complexity O(n)
 ### 2. Link List
 ### 3. Stack
 ### 4. Queue
