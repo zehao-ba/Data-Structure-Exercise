@@ -10,6 +10,7 @@ It is a folder includes the data structure exercises.
   
 * Array Arrangement
   * MoveZeroToEnd: Move all zeroes to end of array with time complexity O(n)
+  * ReverseArray: Reverse an array with time complexity O(n);
 
 ### 2. Link List
 ### 3. Stack
