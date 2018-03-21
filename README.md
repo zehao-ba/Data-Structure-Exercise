@@ -11,6 +11,12 @@ It is a folder includes the data structure exercises.
 * Array Arrangement
   * MoveZeroToEnd: Move all zeroes to end of array with time complexity O(n)
   * ReverseArray: Reverse an array with time complexity O(n);
+  
+* Array Searching and Sorting
+  * union: Give two sorted arrays, find their union with time complexity O(m+n)
+  
+* Range Queries
+  * MOAlgo: Give an array and a set of query ranges, find the sum of every query range with time complexity O(mn)
 
 ### 2. Link List
 ### 3. Stack
